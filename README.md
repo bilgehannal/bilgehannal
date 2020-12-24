@@ -18,8 +18,17 @@
 💹 Economy enthusiast and junior technical analyst.
 
 ---
-###  Github Statistics  📈
 
-![Github stats]([https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true](https://github-readme-stats.vercel.app/api?username=bilgehannal&theme=highcontrast&show_icons=true&count_private=true))
+<h3 align="center">
+  GitHub Stats
+</h3>
 
-![Top Languages Card]([https://github-readme-stats.vercel.app/api/top-langs/?username=bilgehannal](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgehannal))
+  <div align="center"> 
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bilgehannal&show_icons=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgehannal&theme=react"/>
+</div>
+
+---
+<h3 align="center">
+<a href="bilgehannal.com"> Click for Website </a> 
+</h3>
