@@ -1,21 +1,22 @@
 
-🖖 Hello, I am Bilgehan from Turkey
+<p align="center">🖖 Hello, I am Bilgehan from Turkey <p/>
 
-👨‍💻 DevOps Engineer working for  [eBay](https://www.gittigidiyor.com/) .
+<p align="center">👨‍💻 DevOps Engineer working for  [eBay](https://www.gittigidiyor.com/) .<p/>
 
-📱 Part time backend developer in our  [small team](https://quickestlab.com/)  which is developing mobile apps.
+<p align="center">📱 Part time backend developer in our  [small team](https://quickestlab.com/)  which is developing mobile apps.<p/>
 
-🖥️ I love reading, writting, learning about computer science and technologies.
+<p align="center">🖥️ I love reading, writting, learning about computer science and technologies.<p/>
 
-🤯 Dedicated myself to hack my life with my computer skills
+<p align="center">🤯 Dedicated myself to hack my life with my computer skills<p/>
 
-⚡ Interested in electronic as a hobby
+<p align="center">⚡ Interested in electronic as a hobby<p/>
 
-🏀 Passionate about NBA and Formula1 (Especially, backstage story of these sports).
+<p align="center">🏀 Passionate about NBA and Formula1 (Especially, backstage story of these sports).<p/>
 
-👨‍🍳 Only beginner chef in my own kitchen.
+<p align="center">👨‍🍳 Only beginner chef in my own kitchen.<p/>
 
-💹 Economy enthusiast and junior technical analyst.
+<p align="center">💹 Economy enthusiast and junior technical analyst.<p/>
+
 
 ---
 
@@ -30,5 +31,5 @@
 
 ---
 <h3 align="center">
-<a href="http://bilgehannal.com"> Click for Website </a> 
+<a href="bilgehannal.com"> Click for Website </a> 
 </h3>
