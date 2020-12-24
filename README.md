@@ -30,5 +30,5 @@
 
 ---
 <h3 align="center">
-<a href="bilgehannal.com"> Click for Website </a> 
+<a href="http://bilgehannal.com"> Click for Website </a> 
 </h3>
