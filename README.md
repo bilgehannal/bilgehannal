@@ -1,9 +1,9 @@
 
 <p align="center">🖖 Hello, I am Bilgehan from Turkey <p/>
 
-<p align="center">👨‍💻 DevOps Engineer working for  [eBay](https://www.gittigidiyor.com/) .<p/>
+<p align="center">👨‍💻 DevOps Engineer working for  <a href="https://www.gittigidiyor.com/">eBay</a>.<p/>
 
-<p align="center">📱 Part time backend developer in our  [small team](https://quickestlab.com/)  which is developing mobile apps.<p/>
+<p align="center">📱 Part time backend developer in our  <a href="https://quickestlab.com/">small team</a> which is developing mobile apps.<p/>
 
 <p align="center">🖥️ I love reading, writting, learning about computer science and technologies.<p/>
 
