@@ -19,10 +19,12 @@
 
 
 ---
-
+<p align="center">
+<img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
 <h3 align="center">
   GitHub Stats
 </h3>
+</p>
 
   <div align="center"> 
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bilgehannal&show_icons=true&count_private=true&theme=react&line_height=40" />
