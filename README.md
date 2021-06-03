@@ -1,7 +1,7 @@
 
 <p align="center">🖖 Hello, I am Bilgehan from Turkey <p/>
 
-<p align="center">👨‍💻 DevOps Engineer working for  <a href="https://www.gittigidiyor.com/">eBay</a>.<p/>
+<p align="center">👨‍💻 DevOps Engineer working for  <a href="https://www.sahibinden.com/">sahibinden.com</a>.<p/>
 
 <p align="center">📱 Part time backend developer in our  <a href="https://quickestlab.com/">small team</a> which is developing mobile apps.<p/>
 
