@@ -11,7 +11,7 @@
 
 <p align="center">🧠 I spend a lot of time reading and exploring new concepts.<p/>
 
-<p align="center">🚗 I also have a passion for RC cars – a fun and hands-on hobby.<p/>
+<p align="center">🚗 I also have a passion for RC cars, a fun and hands-on hobby.<p/>
 
 
 ---
